@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickDoc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="ret">RETRIVE</string>
+
+    <string-array name="country_arrays">
+        <item>Cardiac arrest</item>
+        <item>Cerebral Attack</item>
+        <item>Severe Injury</item>
+        <item>Chest pain</item>
+        <item>Coma</item>
+        <item>Cyanosis</item>
+        <item>Diarrhea</item>
+        <item>Gastrointestinal bleeding</item>
+        <item>Pelvic pain</item>
+        <item>Syncope</item>
+        <item>Internal bleeding</item>
+        
+        <item>Hypertensive emergency</item>
+    </string-array>
+
+    <string name="title_activity_home">TODO</string>
+    <string name="title_activity_map">Map</string>
+    <string name="locationTxt">TODO</string>
+
+</resources>
